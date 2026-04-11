@@ -1,5 +1,7 @@
 # Library Management Web
 
+
+
 A simple client-side library management system built with HTML, CSS, and JavaScript.
 
 ## Contents
@@ -29,6 +31,3 @@ A simple client-side library management system built with HTML, CSS, and JavaScr
 - This project is currently static and runs entirely in the browser.
 - No backend server or database is required to run the demo.
 
-## Repository
-
-https://github.com/KashishPanchal/Library-management-web
